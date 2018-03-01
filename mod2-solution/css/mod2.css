@@ -37,6 +37,10 @@
   background-color: #FF7F50;
 }
   
+
+section {
+  clear: left;
+}
   .row {
    width: 100%;
   }
