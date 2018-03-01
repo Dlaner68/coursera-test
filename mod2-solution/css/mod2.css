@@ -8,11 +8,6 @@
   h1 {
    margin-bottom: 15px;
   }
-div#container {
-  background-color: #00FFFF;
-  position: relative;
-  top: 60px;
-}
   
   p {
    border: 1px solid black;
@@ -24,16 +19,16 @@ div#container {
    font-family: Arial;
    color: white;
   }
-#p1 {
+#box1 {
   background-color: #A52A2A;
   position: relative;
   top: 65px;
   left: 65px;
 }
-#p2 {
+#box2 {
   background-color: #DEB887;
 }
-#p3 {
+#box3 {
   background-color: #5F9EA0;
   position: absolute;
   top: 0;
