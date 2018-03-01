@@ -16,7 +16,7 @@ p {
   padding: 10px;
 }
 #p1 {
-  background-color: #A52A2A;
+  background-color: #0F0F0F;
   float: left;
   height: 150px;
 }
@@ -28,9 +28,6 @@ p {
 #p3 {
   background-color: #5F9EA0;
   clear: both;
-}
-#p4 {
-  background-color: #FF7F50;
 }
   
   .row {
