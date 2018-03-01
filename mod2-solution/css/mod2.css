@@ -16,7 +16,7 @@ p {
   float: left;
  padding: 10px;
 }
-#col-lg-1 {
+.col-lg-1 {
   background-color: #A52A2A;
   float: left;
   height: 150px;
